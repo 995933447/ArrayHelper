@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bobby\\ArraySpecialHelper\\": "/src"
+            "Bobby\\ArraySpecialHelper\\": "src/"
         }
     },
     "minimum-stability": "stable",
