@@ -1,7 +1,7 @@
 <?php
 namespace Bobby\ArraySpecialHelper;
 
-class ArrayHelper implements ArrayHelperContrat
+class ArrayHelper implements ArrayHelperContract
 {
     /** 使用字符串表示维度设置数组值
      * @param $array
