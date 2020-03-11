@@ -1,0 +1,14 @@
+{
+    "name": "bobby/array-special-helper",
+    "description": "some special algorithm to help you use array",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bobby",
+            "email": "995933447@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
